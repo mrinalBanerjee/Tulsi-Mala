@@ -1,0 +1,13 @@
+
+        /* Add custom styles for your background image */
+        body {
+            background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPXzrI8HZynt8c-nPEG5O8z1bxK4Yw_B2YyHLtDYkoD7Oboxa9QVO3zbjO7YqBfDbk5uG7safNH4KzKB615_DwMKzhWprhL82E5nluBJLEXJk_gHhVfHntwl8BLTuYKgxCB_j0AIYNX_VXpGuwTJsM6wFBIMrgDY73MQyYgzc4WOMSagwnGQmOUSj_WT0i/s885/mala.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            /* Additional styling if needed */
+          color: #00ff00;
+        }
+      @media (max-width: 768px) {
+  /* Styles for smaller screens */
+}
+
